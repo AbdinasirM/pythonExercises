@@ -54,7 +54,7 @@ print(f"That {fruit} is rotten {ripeness}")
 
 #strings and indexes
 
-words = "animale Human"
+words = "animal Human"
 print(words[0]) #gives you the first letter
 
 print(words[-1]) #gives you the last letter
